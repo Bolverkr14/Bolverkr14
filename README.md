@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Yann.
 
-<!--
-**Bolverkr14/Bolverkr14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into Business Intelligence and Data Analytics.
 
-Here are some ideas to get you started:
+My goal is to become a BI/Data Analyst specializing in the Microsoft ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building hands-on projects using:
+
+📊 Excel
+🗄 SQL
+📈 Power BI
+⚙️ Power Query
+🐍 Python (for automation)
+
+Every project in this portfolio is designed to solve a real business problem and strengthen my analytical skills.
