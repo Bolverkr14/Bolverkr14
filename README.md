@@ -86,5 +86,5 @@ Je suis à la recherche d’une opportunité de Data Analyst junior me permettan
 
 ## Contact
 
-- LinkedIn : https://www.linkedin.com/in/yann-l-28a1b537b
+- LinkedIn : https://www.linkedin.com/in/yann-lecompte89
 - GitHub : Bolverkr14
